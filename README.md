@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Valeria</h1>
+<h1 align="center">✩ Hi there, I'm Valeria</h1>
 
 ###
 
-<h3 align="center"> I'm a passionate web developer and designer exploring the full stack universe.</h3>
+<img align="right" height="150" src="https://i.gifer.com/7d1.gif"  />
+
+###
+
+<h3 align="center">Hi there! I'm a passionate web developer and designer exploring the full stack universe.</h3>
 
 ###
 
@@ -10,11 +14,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">- Frontend: HTML, CSS, JavaScript  <br>- Backend: Basics of Python, databases, WebSockets  <br>- Design: Figma, Adobe Photoshop/Illustrator. Canva<br>- Other: Responsive design, animations, UI/UX principles</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
@@ -47,17 +53,3 @@
 </div>
 
 ###
-<!--
-**valeriadenysiuk/valeriadenysiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
