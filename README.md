@@ -1,10 +1,9 @@
-<h1 align="center">✩ Hi there, I'm Valeria</h1>
-
-###
-
 <img align="right" height="150" src="https://i.gifer.com/7d1.gif"  />
 
 ###
+
+<h1 align="center">✩ Hi there, I'm Valeria</h1>
+
 
 <h3 align="center">Hi there! I'm a passionate web developer and designer exploring the full stack universe.</h3>
 
