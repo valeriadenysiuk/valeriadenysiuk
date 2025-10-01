@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Hi there! I'm a passionate web developer and designer exploring the full stack universe.</h3>
+<h3 align="center"> I'm a passionate web developer and designer exploring the full stack universe.</h3>
 
 ###
 
