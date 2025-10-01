@@ -1,4 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Valeria</h1>
+
+###
+
+<h3 align="center">Hi there! I'm a passionate web developer and designer exploring the full stack universe.</h3>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<p align="left">- Frontend: HTML, CSS, JavaScript  <br>- Backend: Basics of Python, databases, WebSockets  <br>- Design: Figma, Adobe Photoshop/Illustrator. Canva<br>- Other: Responsive design, animations, UI/UX principles</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriadenysiuk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <!--
 **valeriadenysiuk/valeriadenysiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
