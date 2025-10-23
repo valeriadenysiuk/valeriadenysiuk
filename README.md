@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">- Frontend: HTML, CSS, JavaScript  <br>- Backend: Basics of Python, databases, WebSockets  <br>- Design: Figma, Adobe Photoshop/Illustrator. Canva<br>- Other: Responsive design, animations, UI/UX principles</p>
+<p align="center">- Frontend: HTML, CSS, JavaScript  <br>- Backend: Basics of Python, databases, WebSockets  <br>- Design: Figma, Adobe Photoshop/Illustrator. Canva<br>- Other: Responsive design, animations, UI/UX principles</p>
 
 ###
 
